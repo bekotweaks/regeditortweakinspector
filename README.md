@@ -4,7 +4,7 @@ The following instructions specifically apply to the performance_tweaks.reg file
 
 Create a Backup or System Restore Point
 Prior to modifying the Windows Registry, it is essential to create a backup or a system restore point. This precaution allows you to recover your system in the event of any unintended consequences resulting from registry changes.
-Click On The File Name On The Repoitory Click Raw Download
+Click On The File Name On The Repoitory Click Download Raw File
 Download the performance_tweaks.zip File
 Download the performance_tweaks.zip file from this repository. Ensure the file is saved to a known location on your computer.
 
@@ -18,6 +18,7 @@ How to Use check_registry_tweaks.ps1 (Beko Tweaks)
 This PowerShell script is part of the Beko Tweaks project. It checks whether the performance registry settings from performance_tweaks.reg were successfully applied to your system.
 
 Steps to Run the Script
+Click On The Script Name Click Download Raw File
 Download the Script
 Save check_registry_tweaks.ps1 to a convenient location on your PC (for example, your Desktop or a dedicated folder).
 Unzip The Folder Open The check_registry-tweaks.psi folder

@@ -1,16 +1,15 @@
-Instructions for Applying performance_tweaks.reg
+Instructions for Applying performance_tweaks.zip
 The following instructions specifically apply to the performance_tweaks.reg file included in this repository. If additional tweak files are added, please refer to the respective instructions accordingly.
-
 
 
 Create a Backup or System Restore Point
 Prior to modifying the Windows Registry, it is essential to create a backup or a system restore point. This precaution allows you to recover your system in the event of any unintended consequences resulting from registry changes.
 
-Download the performance_tweaks.reg File
-Download the performance_tweaks.reg file from this repository. Ensure the file is saved to a known location on your computer.
+Download the performance_tweaks.zip File
+Download the performance_tweaks.zip file from this repository. Ensure the file is saved to a known location on your computer.
 
 Merge the Registry File
-Locate the downloaded performance_tweaks.reg file, right-click on it, and select Merge. You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
+Locate the downloaded performance_tweaks.zip file, Open The Zip Folder Then the file right-click on it, and select Merge. You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
 
 Restart Your Computer
 After successfully merging the registry file, restart your computer to allow all changes to take full effect.

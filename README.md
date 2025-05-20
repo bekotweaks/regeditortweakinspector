@@ -9,7 +9,7 @@ Download the performance_tweaks.zip File
 Download the performance_tweaks.zip file from this repository. Ensure the file is saved to a known location on your computer.
 
 Merge the Registry File
-Locate the downloaded performance_tweaks.zip file, Open The Zip Folder Then the file right-click on it, and select Merge. You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
+Locate the downloaded performance_tweaks.zip file, Open The Zip Folder Extract the file, Then the file will appear performance_tweaks.reg right-click on it, and select Merge. You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
 
 Restart Your Computer
 After successfully merging the registry file, restart your computer to allow all changes to take full effect.
@@ -20,15 +20,15 @@ This PowerShell script is part of the Beko Tweaks project. It checks whether the
 Steps to Run the Script
 Download the Script
 Save check_registry_tweaks.ps1 to a convenient location on your PC (for example, your Desktop or a dedicated folder).
-
+Unzip The Folder Open The check_registry-tweaks.psi folder
 Run the Script
 
-Open File Explorer and locate the downloaded file.
-
+Open File Explorer and locate the downloaded zip.
+Open The Zip, Extract The Files Then run check_registry_tweaks.ps1
 Right-click on check_registry_tweaks.ps1.
 
 Select Run with PowerShell from the context menu.
-
+Keep Note This May Only Work In File Explorer Not Winrar
 PowerShell will open and automatically execute the script.
 
 Review the Output
@@ -68,3 +68,4 @@ Click Apply, then OK to close the window
 For .reg files: Right-click > Merge to apply the registry tweaks
 
 For .ps1 scripts: Right-click > Run with PowerShell to execute the check script
+Also Keep Note You May Want To Install The Checker To Make Sure The Registry Editor Tweaks Worked.

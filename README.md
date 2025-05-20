@@ -5,11 +5,9 @@ The following instructions specifically apply to the performance_tweaks.reg file
 Create a Backup or System Restore Point
 Prior to modifying the Windows Registry, it is essential to create a backup or a system restore point. This precaution allows you to recover your system in the event of any unintended consequences resulting from registry changes.
 Click On The File Name On The Repoitory Click Download Raw File
-Download the performance_tweaks.zip File
-Download the performance_tweaks.zip file from this repository. Ensure the file is saved to a known location on your computer.
-
-Merge the Registry File
-Locate the downloaded performance_tweaks.zip file, Open The Zip Folder Extract the file, Then the file will appear performance_tweaks.reg right-click on it, and select Merge. You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
+Download the performance_tweaks.reg File
+Download the performance_tweaks.reg file from this repository. Ensure the file is saved to a known location on your computer.
+Locate the downloaded performance_tweaks.reg file, right-click on it, Click Show More Options And and select Merge. If Smart Control Stops You Right Click On The File select properties, and click unblock. Then Try To Click Merge Again If It Works, You will receive a security prompt; confirm it by clicking Yes to proceed with importing the registry entries. This action applies the performance optimization tweaks contained within the file.
 
 Restart Your Computer
 After successfully merging the registry file, restart your computer to allow all changes to take full effect.
@@ -21,15 +19,10 @@ Steps to Run the Script
 Click On The Script Name Click Download Raw File
 Download the Script
 Save check_registry_tweaks.ps1 to a convenient location on your PC (for example, your Desktop or a dedicated folder).
-Unzip The Folder Open The check_registry-tweaks.psi folder
-Run the Script
-
-Open File Explorer and locate the downloaded zip.
-Open The Zip, Extract The Files Then run check_registry_tweaks.ps1
+Open File Explorer and locate the downloaded ps1 file
 Right-click on check_registry_tweaks.ps1.
-
 Select Run with PowerShell from the context menu.
-Keep Note This May Only Work In File Explorer Not Winrar
+If Smart Control Stops You Right Click On The File select properties, and click unblock.
 PowerShell will open and automatically execute the script.
 
 Review the Output

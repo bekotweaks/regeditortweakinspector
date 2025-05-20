@@ -1,4 +1,4 @@
-Instructions for Applying performance_tweaks.zip
+Instructions for Applying performance_tweaks.reg
 The following instructions specifically apply to the performance_tweaks.reg file included in this repository. If additional tweak files are added, please refer to the respective instructions accordingly.
 
 

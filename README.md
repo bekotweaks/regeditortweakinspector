@@ -4,7 +4,7 @@ HOW TO DOWNLOAD THIS PACKAGE FROM GITHUB
 To download the full ZIP package correctly:
 
 1. Go to the repository page: https://github.com/bekotweaks/regeditortweakinspector
-2. Click the green "Code" button
+2. Click On The Latest Release
 3. Select "Download ZIP"
 4. Save the file to your computer
 5. Follow the instructions below to unblock and extract it properly
@@ -14,28 +14,11 @@ To download the full ZIP package correctly:
 IMPORTANT: HOW TO UNBLOCK AND EXTRACT THE ZIP FILE PROPERLY
 
 If you downloaded this ZIP file from the internet (such as from GitHub), Windows may block the files inside. This can prevent .bat, .ps1, and .reg files from running correctly.
-
-To make sure everything works:
-
-STEP 1: UNBLOCK THE ZIP FILE
-1. Right-click the ZIP file (regeditortweakinspector.zip)
-2. Select "Properties"
-3. Check the box that says "Unblock" 
-4. Click Apply, then OK
-
-STEP 2: USE WINDOWS FILE EXPLORER TO EXTRACT
-1. Right-click the ZIP file again
-2. Choose "Extract All..."
-3. And extract the files
-
-DO NOT USE WINRAR OR 7-ZIP TO EXTRACT
-These tools do not preserve the unblocked status. Use Windows File Explorer to ensure all files run correctly.
-
-------------------------------------------------------------------------------
-
 IMPORTANT: Unblock the ZIP Before Extracting
 
 If you don't unblock the ZIP file before extracting it, Windows may block the scripts inside (like .ps1, .bat, and .reg).
+IMPORTANT: DO NOT USE WINRAR OR 7-ZIP TO EXTRACT
+These tools do not preserve the unblocked status. Use Windows File Explorer to ensure all files run correctly.
 
 To avoid this:
 
@@ -45,13 +28,14 @@ To avoid this:
 4. Click Apply, then OK.
 5. Now extract the ZIP — everything inside will work without extra steps.
 
-How to Extract and Use This Package
 
-To extract and run this project correctly:
+STEP 2: USE WINDOWS FILE EXPLORER TO EXTRACT
+1. Right-click the ZIP file again
+2. Choose "Extract All..."
+3. And extract the files
+4. After extraction, run apply_tweaks.bat (Give Adminstrator Permissions) (to apply tweaks) And There You Go Now You Have The Tweaks Ran!
 
-1. Unblock the ZIP file before extracting (see steps above).
-2. Right-click the ZIP file and choose “Extract All…”
-3. After extraction, run apply_tweaks.bat (Give Adminstrator Permissions) (to apply tweaks) And There You Go Now You Have The Tweaks Ran!
+------------------------------------------------------------------------------
 
 How To Use The run_checker program to make sure the tweaks were applied.
 Go To The Extracted Folder And right-click on the file click run with powershell.

@@ -20,13 +20,13 @@ To make sure everything works:
 STEP 1: UNBLOCK THE ZIP FILE
 1. Right-click the ZIP file (regeditortweakinspector.zip)
 2. Select "Properties"
-3. Check the box that says "Unblock" (if visible)
+3. Check the box that says "Unblock" 
 4. Click Apply, then OK
 
 STEP 2: USE WINDOWS FILE EXPLORER TO EXTRACT
 1. Right-click the ZIP file again
 2. Choose "Extract All..."
-3. Select a folder and extract the files
+3. And extract the files
 
 DO NOT USE WINRAR OR 7-ZIP TO EXTRACT
 These tools do not preserve the unblocked status. Use Windows File Explorer to ensure all files run correctly.

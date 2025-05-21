@@ -5,7 +5,7 @@ To download the full ZIP package correctly:
 
 1. Go to the repository page: https://github.com/bekotweaks/regeditortweakinspector
 2. Click On The Latest Release
-3. Select "Download ZIP"
+3. Under Assets Click regeditortweakinspector.zip
 4. Save the file to your computer
 5. Follow the instructions below to unblock and extract it properly
 
